@@ -29,8 +29,8 @@ A modern, responsive web application for managing and searching information card
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/harshyadavone/fullstack-card-app.git
-   cd fullstack-card-app
+   git clone https://github.com/harshyadavone/fullstack-assignment.git
+   cd fullstack-assignment
    ```
 
 2. **Set up the backend**

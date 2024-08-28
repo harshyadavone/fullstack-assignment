@@ -74,19 +74,11 @@ A modern, responsive web application for managing and searching information card
 
 ## 📚 API Documentation
 
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/cards` | GET | Fetch all cards |
-| `/api/cards` | POST | Create a new card |
-| `/api/cards/search` | POST | Search cards by title |
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/fullstack-card-app/issues).
-
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+| Endpoint            | Method | Description           |
+| ------------------- | ------ | --------------------- |
+| `/api/cards`        | GET    | Fetch all cards       |
+| `/api/cards`        | POST   | Create a new card     |
+| `/api/cards/search` | POST   | Search cards by title |
 
 ## 👨‍💻 Author
 
@@ -98,4 +90,3 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 ---
 
 ⭐️ Star this repo if you like what you see!
-```
